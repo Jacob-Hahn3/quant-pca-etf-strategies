@@ -1,0 +1,16 @@
+# data (do not commit)
+data_processed/
+data_raw/
+*.parquet
+
+# jupyter
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# macOS
+.DS_Store
